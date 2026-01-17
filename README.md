@@ -1,46 +1,62 @@
-# Codveda Internship – Task 1
+# Codveda Internship – Tasks Repository
 
-## Simple Calculator (Arithmetic Operations)
-
-This repository contains my **first task** for the **Codveda Internship**, where I implemented a **Simple Calculator** using basic programming concepts.
-
----
-
-## 📌 Task Overview
-
-The goal of this task was to build a simple calculator that performs **basic arithmetic operations**.
-
-### Operations Included:
-
-* Addition
-* Subtraction
-* Multiplication
-* Division
-* Modulus
+This repository contains **all the tasks completed by me during the Codveda Internship**.
+Each task is organized in a separate folder for better structure and clarity.
 
 ---
 
-## 🛠️ Technologies Used
+## 📌 Internship Details
 
-* Java
-* Basic arithmetic logic
-* User input handling
+* **Internship Platform:** Codveda Technologies
+* **Role:** Intern
+* **Duration:** Ongoing
+
+---
+
+## 📂 Repository Structure
+
+```
+Codveda_Internship/
+│
+├── Task_01_Simple_Calculator/
+│   └── Calculator.java
+│
+├── Task_02_Upcoming/
+│
+└── README.md
+```
+
+---
+
+## ✅ Completed Tasks
+
+### 🔹 Task 1: Simple Calculator
+
+* Implemented basic arithmetic operations:
+
+  * Addition
+  * Subtraction
+  * Multiplication
+  * Division
+  * Modulus
+* Focused on logic building and understanding core programming concepts.
+* Language used: **Java**
 
 ---
 
 ## 🎯 Learning Outcomes
 
-* Strengthened understanding of arithmetic operations
-* Improved logical thinking and problem-solving skills
-* Gained hands-on experience with basic Java programming
+* Improved problem-solving and logical thinking
+* Gained hands-on experience with Java fundamentals
+* Learned how to manage tasks in a structured GitHub repository
 
 ---
 
-## 🚀 Internship
+## 🚀 About the Internship
 
-This project is part of my internship journey at **Codveda Technologies**.
-Looking forward to learning more and building advanced projects.
+This repository will be updated regularly as I complete new tasks assigned during the internship.
+Stay tuned for upcoming tasks and improvements.
 
 ---
 
-⭐ Feel free to explore the code and share feedback.
+⭐ Feel free to explore the repository and share feedback.
