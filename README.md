@@ -16,12 +16,14 @@ Each task is organized in a separate folder for better structure and clarity.
 ## 📂 Repository Structure
 
 ```
+```
 Codveda_Internship/
 │
 ├── Task_01_Simple_Calculator/
 │   └── Calculator.java
 │
-├── Task_02_Upcoming/
+├── Task_02_Number_Guessing_Game/
+│   └── NumberGuessingGame.java
 │
 └── README.md
 ```
@@ -42,6 +44,19 @@ Codveda_Internship/
 * Focused on logic building and understanding core programming concepts.
 * Language used: **Java**
 
+---
+
+### 🔹 Task 2: Number Guessing Game
+
+* Developed a console-based number guessing game.
+* Program generates a random number using Java’s `Random` class.
+* User guesses the number with limited attempts.
+* Provides feedback:
+
+  * Too high
+  * Too low
+* Handles invalid inputs gracefully.
+* Language used: **Java**
 ---
 
 ## 🎯 Learning Outcomes
