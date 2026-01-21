@@ -16,7 +16,6 @@ Each task is organized in a separate folder for better structure and clarity.
 ## 📂 Repository Structure
 
 ```
-```
 Codveda_Internship/
 │
 ├── Task_01_Simple_Calculator/
@@ -25,10 +24,12 @@ Codveda_Internship/
 ├── Task_02_Number_Guessing_Game/
 │   └── NumberGuessingGame.java
 │
+├── Task_03_Factorial/
+│   └── Recursion.java
+│
 └── README.md
-```
 
----
+```
 
 ## ✅ Completed Tasks
 
@@ -58,6 +59,20 @@ Codveda_Internship/
 * Handles invalid inputs gracefully.
 * Language used: **Java**
 ---
+
+🔹 Task 3: Factorial Calculation using Recursion
+
+*Implemented a recursive method to calculate the factorial of a number.
+
+*Handles important edge cases:
+*Factorial of 0
+*Negative numbers (not defined)
+*Demonstrates use of:
+*Recursion
+*Base cases
+
+Conditional checks
+Language used: Java
 
 ## 🎯 Learning Outcomes
 
