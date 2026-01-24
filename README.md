@@ -19,13 +19,17 @@ Each task is organized in a separate folder for better structure and clarity.
 Codveda_Internship/
 │
 ├── Task_01_Simple_Calculator/
-│   └── Calculator.java
+│ └── Calculator.java
 │
 ├── Task_02_Number_Guessing_Game/
-│   └── NumberGuessingGame.java
+│ └── NumberGuessingGame.java
 │
 ├── Task_03_Factorial/
-│   └── Recursion.java
+│ └── Recursion.java
+│
+├── Level2_Employee_Management_System/
+│ ├── Employee.java
+│ └── EmployeeManagementSystem.java
 │
 └── README.md
 
@@ -72,6 +76,23 @@ Codveda_Internship/
 *Base cases
 
 Conditional checks
+Language used: Java
+
+🔹 Level 2 – Task 1: Employee Management System
+
+Built a basic Employee Management System using Java and Object-Oriented Programming.
+Implemented full CRUD functionality:
+
+Add Employee
+
+View Employee Records
+
+Update Employee Details
+
+Delete Employee Records
+Used ArrayList for in-memory data storage.
+Designed a menu-driven console application for user interaction.
+Strengthened understanding of classes, objects, and data handling.
 Language used: Java
 
 ## 🎯 Learning Outcomes
