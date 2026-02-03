@@ -30,6 +30,15 @@ Codveda_Internship/
 ├── Level2_Employee_Management_System/
 │ ├── Employee.java
 │ └── EmployeeManagementSystem.java
+├── Level2_Employee_Management_System/
+│ ├── Employee.java
+│ └── EmployeeManagementSystem.java
+│
+├── Level2/
+│ └── task2/
+│     ├── FileHandlingExample.java
+│     ├── input.txt
+│     └── output.txt
 │
 └── README.md
 
@@ -94,6 +103,21 @@ Used ArrayList for in-memory data storage.
 Designed a menu-driven console application for user interaction.
 Strengthened understanding of classes, objects, and data handling.
 Language used: Java
+
+### 🔹 Level 2 – Task 2: File Handling (Reading & Writing Files)
+
+* Implemented file handling operations using Java.
+* Read data from an input text file.
+* Processed the file content by:
+  * Counting number of lines
+  * Counting number of words
+* Wrote the processed output to a separate output file.
+* Handled file-related exceptions such as:
+  * FileNotFoundException
+  * IOException
+* Strengthened understanding of real-world file input/output operations.
+* Language used: **Java**
+
 
 ## 🎯 Learning Outcomes
 
