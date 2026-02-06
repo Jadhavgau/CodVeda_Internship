@@ -39,6 +39,10 @@ Codveda_Internship/
 │     ├── FileHandlingExample.java
 │     ├── input.txt
 │     └── output.txt
+│ │
+│ └── Task3_Simple_Banking_Application/
+│ ├── BankAccount.java
+│ └── BankingApp.java
 │
 └── README.md
 
@@ -118,6 +122,22 @@ Language used: Java
 * Strengthened understanding of real-world file input/output operations.
 * Language used: **Java**
 
+ ### 🔹 Level 2 – Task 3: Simple Banking Application
+- Developed a console-based banking system using Java.
+- Implemented core banking operations:
+  - Deposit money
+  - Withdraw money
+  - Check account balance
+- Applied Object-Oriented Programming concepts:
+  - Class & Object
+  - Encapsulation
+- Implemented basic error handling:
+  - Invalid input
+  - Insufficient balance
+- Menu-driven user interaction through console.  
+- **Language:** Java  
+
+---
 
 ## 🎯 Learning Outcomes
 
